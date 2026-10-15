@@ -1,0 +1,4 @@
+gene_id,length_bp,sample_A,sample_B
+toy_gene_1,1000,10,0
+toy_gene_2,2000,20,0
+toy_gene_3,1000,0,5
